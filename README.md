@@ -20,3 +20,7 @@ Make sure you have python3 on your system
 Install all the dependencies by using pip install xxxx Command (where xxxx stands for the library name)
 
 Server: python3 app.py
+
+
+![overlook](https://user-images.githubusercontent.com/28802910/221004835-7915be77-9544-48a2-a3bc-125431795f2e.png)
+![Screenshot from 2023-02-23 10-58-35](https://user-images.githubusercontent.com/28802910/221004870-d9a72797-6e4e-4087-9f53-d108865e4dd9.png)
